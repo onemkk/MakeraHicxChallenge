@@ -1,0 +1,11 @@
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/Main.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/interfaces/FileManager.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/DirectoryWatcher.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/exceptions/CustomException.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/interfaces/Statistics.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/Statistics/numDotsStatistics.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/Statistics/mostUsedWordStat.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/Statistics/StatisticsModel.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/Statistics/numWordsStatistics.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/fileManagers/TextManager.java
+/Users/mac/Desktop/fileParserTaskHicx/src/main/java/com/dataAnalysis/interfaces/DirectoryObserverInterface.java

@@ -1,0 +1,11 @@
+com/dataAnalysis/interfaces/Statistics.class
+com/dataAnalysis/DirectoryWatcher.class
+com/dataAnalysis/exceptions/CustomException.class
+com/dataAnalysis/Statistics/numDotsStatistics.class
+com/dataAnalysis/interfaces/DirectoryObserverInterface.class
+com/dataAnalysis/Statistics/StatisticsModel.class
+com/dataAnalysis/Statistics/numWordsStatistics.class
+com/dataAnalysis/Main.class
+com/dataAnalysis/Statistics/mostUsedWordStat.class
+com/dataAnalysis/interfaces/FileManager.class
+com/dataAnalysis/fileManagers/TextManager.class
